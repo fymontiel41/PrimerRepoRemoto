@@ -1,5 +1,5 @@
 
-#Mr.Sold Out#
+#Mr.Sold Out
 
 Jose Romulo Sosa Ortiz, conocido como Jose Jose, fue un cantante y actor 
 mexicano considerado un icono musical y popular del siglo XX. Su apodo 
