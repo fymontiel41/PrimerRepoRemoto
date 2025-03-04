@@ -19,7 +19,6 @@ Jose encontro el exito como solista a principio de la decada de los setenta
 *El Triste* [Video](https://www.youtube.com/watch?v=5yaenWbMXTQ) en el segundo 
 Festival de la Cancion Latina.
 
-![Jose Jose en el escenario del festival](Escritorio/Funciones
-DeCorrelacion/PRepo/PrimerRepo/SFes.jpg)
+![Jose Jose en el escenario del festival](SFes.jpg)
 
 
