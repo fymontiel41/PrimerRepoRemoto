@@ -1,5 +1,5 @@
 
-# Mr.Sold Out
+# Mr. Sold Out
 
 Jose Romulo Sosa Ortiz, conocido como Jose Jose, fue un cantante y actor 
 mexicano considerado un icono musical y popular del siglo XX. Su apodo 
@@ -12,8 +12,7 @@ a los PEG [Los PEG-Tristeza](https://www.youtube.com/watch?v=5EqsFbRqXGY),
 un trio de jazz y bossa nova en el que canto y toco el bajo y el 
 contrabajo 
 
-![Fotografia contenida en el disco debut de Los PEG](Escritorio/Funciones
-DeCorrelacion/PRepo/PrimerRepo/peg.jpg)
+![Fotografia contenida en el disco debut de Los PEG](peg.jpg)
 
 Jose encontro el exito como solista a principio de la decada de los setenta
 , demostrando su habilidad vocal con la iconica presentacion de la cancion 
